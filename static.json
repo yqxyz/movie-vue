@@ -1,0 +1,11 @@
+{
+  "root": "./dist",
+  "routes": {
+    "/**": "index.html"
+  },
+  "proxies": {
+    "/api/": {
+      "origin": "https://shielded-everglades-50190.herokuapp.com/api/"
+    }
+  }
+}
