@@ -3,7 +3,7 @@
 
 在线 (https://morning-forest-54273.herokuapp.com/)
 - 前端 vue vuex 
-- 后台 spring boot jpa mahout 项目地址(https://github.com/quentinyy/movie)
+- 后台 spring boot jpa mahout 项目地址(https://github.com/yqxyz/movie)
 - 主页
 
 ![Alt text](https://github.com/quentinyy/movie/raw/master/img/TIM截图20180528173233.png)
